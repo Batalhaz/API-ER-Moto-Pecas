@@ -1,2 +1,2 @@
-# ER-Moto-Pe-as
+# ER-Moto-Pecas
 Catálogo de peças de moto
